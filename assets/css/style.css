@@ -146,7 +146,7 @@ body {
 
 .home {
 	background-color: rgba(16, 165, 205, 0.8);
-	background-image: url(../images/menu-bg-home.png);
+	background-image: url(../images/dali-3.jpg);
 	background-repeat: no-repeat;
 	background-size: 100% 100%;
 }
@@ -183,7 +183,7 @@ body {
 	margin-bottom: 10px;
 }
 .gallery {
-	background-image: url(../images/menu-bg-gallery.png);
+	background-image: url(../images/dali-3.jpg);
 	background-repeat: no-repeat;
 	background-size: 100% 100%;
 }
